@@ -9,5 +9,5 @@ O trabalho cumpre todos os requisitos que são:
 - Clone de uma página de uma aplicação Real
 -  Pelo menos 2 componentes
 
-(Obs: os botões redondos das opções não estão funcionais, o único botão funcional é o de "Continuar" que lança um console.log com "Boatão apertado!".)
+(Obs: os botões redondos das opções não estão funcionais, o único botão funcional é o de "Continuar" que lança um console.log com "Botão apertado!".)
 
